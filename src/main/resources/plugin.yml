@@ -1,0 +1,6 @@
+name: Paska
+version: '${version}'
+
+main: me.Toivow.paska.Paska
+api-version: '1.21.11'
+load: STARTUP
